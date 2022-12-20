@@ -1,11 +1,15 @@
-- 👋🏻 Hello World
-- 👨🏻‍🔬 I’m Anang Hendro Wibowo or you can call me Enji for short
-- 👀 I’m currently developing new interest in tech industry especially data and ui/ux design 
-- 🌱 I recently finished my 3-months-long bootcamp in data analytics at RevoU where i learned various skills 
--   related to data such as understanding and define business problems, data cleaning, data processing and analysis (using spreadsheet, SQL and Python), data visualization and communicating data. Currently work as class manager at RevoU helping peoples who want to gain and enhance their data analytics skills.
-- 📫 You can simply contact me by sending me e-mail at ananghendro811@gmail.com
+# 💫 About Me:
+An aspiring data analyst with a chemistry background who is highly determined to improve my skills as a data analyst. <br>Reliable, agile in a fast-paced environment and also eager and quick to learn new things. <br>After two years of working with data in a manufacturing company, I find my passion for the data analytics field. <br>Recently graduated from Full-Stack Data Analytics program by RevoU with <10% acceptance rate in which, I got to learn end-to-end data analytics processes. <br>Very confident in my ability to work with passion and continually learn new skills.<br>
 
-<!---
-ananghw/ananghw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ananghendro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anang-hendro-wibowo/) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ananghw&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ananghw&theme=blueberry&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ananghw&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
